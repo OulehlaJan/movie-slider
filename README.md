@@ -2,8 +2,8 @@
 <p align="center">Creative Front-End Web Developer</p>
 
 # :computer: Demo
-[![Netlify Status]() <br />
-[Lorem Ipsum Generator App]()
+[![Netlify Status]()] <br />
+[Movie Slider]()
 
 # :rocket: Getting Started with Create React App
 
