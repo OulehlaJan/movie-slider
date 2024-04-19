@@ -1,0 +1,57 @@
+.all-movies {
+    text-align: center;
+    color: #e5e5e5;
+    box-shadow: 0px 0px 15px #e50914;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.all-movies button {
+    background-color: transparent;
+    border: none;
+    font-size: 35px;
+    color: #e50914;
+    cursor: pointer;
+}
+
+.all-movies button:hover {
+    color: #b6060f;
+}
+
+.all-movies-content img {
+    width: 80%;
+    height: 225px;
+    border-radius: 3px;
+}
+
+.all-movies-content {
+    display: flex;
+    width: 500px;
+    height: 400px;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+.all-movies-content article {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: all 0.5s linear;
+}
+
+article.active-slide {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+article.next-slide {
+    transform: translateX(100%);
+}
+
+article.last-slide {
+    transform: translateX(-100%);
+}
