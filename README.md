@@ -1,3 +1,5 @@
+![NPM Version](https://img.shields.io/npm/v/movie-slider?style=for-the-badge)
+
 <h1 align="center">Jan Oulehla</h1>
 <p align="center">Creative Front-End Web Developer</p>
 
