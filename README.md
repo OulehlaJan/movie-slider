@@ -3,7 +3,7 @@
 
 # :computer: Demo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/743e0835-aaa4-4a90-aab5-9762288b9426/deploy-status)](https://app.netlify.com/sites/movie-slider-oulehlajan/deploys) <br />
-:point_right: [Movie Slider](https://movie-slider-oulehlajan.netlify.app/)
+[Movie Slider](https://movie-slider-oulehlajan.netlify.app/):point_left:
 
 # :rocket: Getting Started with Create React App
 
