@@ -65,6 +65,39 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## :open_file_folder: What's inside?
+
+A quick look at the structure of this project.
+
+    .
+    ├── public
+    │   ├───favicon.ico
+    │   ├───index.html
+    │   ├───manifest.json
+    │   ├───noice.mp4
+    │   └───robots.txt
+    ├── src
+    │   ├───components
+    │   │    ├───OneMovieSlider.css
+    │   │    └───OneMovieSlider.scss
+    │   ├───images
+    │   │    ├───movie1.png
+    │   │    ├───movie2.png
+    │   │    ├───movie3.png
+    │   │    ├───movie4.png
+    │   │    ├───movie5.png
+    │   │    ├───movie6.png
+    │   │    ├───movie7.png
+    │   │    ├───movie8.png
+    │   │    ├───movie9.png
+    │   │    └───movie10.png
+    │   ├───App.js
+    │   ├───data.js
+    │   ├───index.css
+    │   └───index.js
+    ├── package-lock.json
+    ├── package.json
+    └── README.md
 
 ## :v: Learn More
 
