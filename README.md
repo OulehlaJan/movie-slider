@@ -1,6 +1,10 @@
 <h1 align="center">Jan Oulehla</h1>
 <p align="center">Creative Front-End Web Developer</p>
 
+# :computer: Demo
+[![Netlify Status](https://api.netlify.com/api/v1/badges/743e0835-aaa4-4a90-aab5-9762288b9426/deploy-status)](https://app.netlify.com/sites/movie-slider-oulehlajan/deploys) <br />
+:point_right: [Movie Slider](https://movie-slider-oulehlajan.netlify.app/)
+
 # :rocket: Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
