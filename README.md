@@ -1,4 +1,4 @@
-![NPM Version](https://img.shields.io/npm/v/movie-slider?style=for-the-badge)
+![NPM Version](https://img.shields.io/npm/v/movieslider?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/oulehlajan/movie-slider?style=for-the-badge)
 
 <h1 align="center">Jan Oulehla</h1>
