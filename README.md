@@ -18,7 +18,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://github.com/OulehlaJan/movie-slider/assets/128754127/4a795fa5-e361-479c-92ff-17eedae90a59" />
+  <img src="assets/MovieSlider.gif" />
 </p>
 
 # :rocket: Getting Started with Create React App
