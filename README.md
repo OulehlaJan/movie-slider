@@ -18,7 +18,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="assets/MovieSlider1.gif" />
+  <img src="assets/MovieSlider2.gif" />
 </p>
 
 # :rocket: Getting Started with Create React App
