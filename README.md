@@ -10,7 +10,16 @@
 
 # :computer: Demo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/743e0835-aaa4-4a90-aab5-9762288b9426/deploy-status)](https://app.netlify.com/sites/movie-slider-oulehlajan/deploys) <br />
-[Movie Slider](https://movie-slider-oulehlajan.netlify.app/):point_left:
+
+<!-- Demo Link -->
+<p align="center">
+  <a href="https://movie-slider-oulehlajan.netlify.app/">Movie Slider</a>:point_left: <br />
+</p>
+
+<!-- GIF -->
+<p align="center">
+  <img src="https://github.com/OulehlaJan/movie-slider/assets/128754127/4a795fa5-e361-479c-92ff-17eedae90a59" />
+</p>
 
 # :rocket: Getting Started with Create React App
 
