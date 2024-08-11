@@ -12,9 +12,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/743e0835-aaa4-4a90-aab5-9762288b9426/deploy-status)](https://app.netlify.com/sites/movie-slider-oulehlajan/deploys) <br />
 
 <!-- Demo Link -->
-<p align="center">
+<h3 align="center">
   <a href="https://movie-slider-oulehlajan.netlify.app/">Movie Slider</a>:point_left: <br />
-</p>
+</h3>
 
 <!-- GIF -->
 <p align="center">
